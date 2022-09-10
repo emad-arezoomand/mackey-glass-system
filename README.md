@@ -13,3 +13,5 @@ input can have a shift backwards using a paramter, which could be used in tasks 
 
 a test_input and test_output is created to be used in testing. 
 
+test data mentioned above is the training data augmented with further system responses. 
+
