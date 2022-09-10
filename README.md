@@ -15,7 +15,11 @@ a test_input and test_output is created to be used in testing.
  
 test data mentioned above is the training data augmented with further system responses. 
 
-mathematical detail of the system is taken from the paper, and snippets of the text regarding it is at below.
+mathematical detail of the system is taken from the paper https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0uztVbMAAAAJ&citation_for_view=0uztVbMAAAAJ:u5HHmVD_uO8C 
+
+
+snippets of the text explaining this system : 
+
 
 <img src="https://user-images.githubusercontent.com/50669689/189479258-7ee9bceb-49e9-4477-8262-41a088790711.png" width="700" height="300">
 <img src="https://user-images.githubusercontent.com/50669689/189479472-0be093ab-e3c1-41ed-99bf-c36280e47643.png" width="700" height="300">
