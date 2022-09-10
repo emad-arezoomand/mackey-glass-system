@@ -15,5 +15,5 @@ a test_input and test_output is created to be used in testing.
  
 test data mentioned above is the training data augmented with further system responses. 
 
-<img src="https://user-images.githubusercontent.com/50669689/189479258-7ee9bceb-49e9-4477-8262-41a088790711.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/50669689/189479258-7ee9bceb-49e9-4477-8262-41a088790711.png" width="700" height="300">
 
